@@ -16,6 +16,6 @@ Scroll Down - Motion your hand upward with palm facing down.
 
 Zoom in - Create a circular loop clockwise.
 
-Zoom out- Create a circular loop counter-clockwise.
+Zoom out - Create a circular loop counter-clockwise.
 
 
